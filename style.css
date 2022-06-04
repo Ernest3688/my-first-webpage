@@ -1,0 +1,43 @@
+body{
+
+    background-color: #588C94;
+    text-align: center;
+    
+    
+    }
+     header{
+    
+    background-color: steelblue;
+        border: 10px white solid;
+        padding: 20px 0px;
+        margin-left: 500px;
+        margin-right: 500px;
+        font-family: sans-serif;
+        
+     
+     }
+    img{
+           margin-top: 40px;
+           padding-right:10px ;
+           margin-bottom: 10px;
+           border-radius: 200px;
+           
+     }
+    
+     h1, h2, h3, p, li {
+        color: white;
+        font-family: sans-serif;
+     }
+    
+     a {
+    
+        color: aqua;
+     }
+    footer{
+        
+
+
+    font-family: sans-serif;
+    
+
+    }    
